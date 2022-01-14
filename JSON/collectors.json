@@ -1,8 +1,12 @@
 {
-    "dataCollectors":[
-        {
-            "name": "Rene",
-            "budget": 100
-        }
-    ]
+  "dataCollectors": [
+    {
+      "name": "Rene",
+      "budget": 100
+    },
+    {
+      "name": "Rene",
+      "budget": 100
+    }
+  ]
 }

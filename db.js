@@ -1,6 +1,6 @@
 const { Sequelize, DataTypes, Model } = require("sequelize");
 
-const db = new Sequelize({
+const db = new Sequelize("database", "username", "password", {
   dialect: "sqlite",
   storage: "./card_trading.db",
   logging: false,
